@@ -81,6 +81,8 @@ github.com/dustinblackman/go-sentry v1.2.1-0.20200310001853-675d8a6151f8 h1:pVYq
 github.com/dustinblackman/go-sentry v1.2.1-0.20200310001853-675d8a6151f8/go.mod h1:IlgHIblLdlWCnqpIxFV4bnLb4fgg9xFfDd41p6kRc/Y=
 github.com/dustinblackman/go-sentry v1.2.1-0.20200310144955-5d0c21b294a6 h1:G8hlK2D0xk10BJATts5RI0nmvGnbwErxyAws8sUmUG0=
 github.com/dustinblackman/go-sentry v1.2.1-0.20200310144955-5d0c21b294a6/go.mod h1:IlgHIblLdlWCnqpIxFV4bnLb4fgg9xFfDd41p6kRc/Y=
+github.com/dustinblackman/go-sentry v1.2.1-0.20200318154555-f5d68b8e3381 h1:28aHEbliVXlxoL5zNM9LOA3XEsd0SmqvssXuj/oD7+E=
+github.com/dustinblackman/go-sentry v1.2.1-0.20200318154555-f5d68b8e3381/go.mod h1:IlgHIblLdlWCnqpIxFV4bnLb4fgg9xFfDd41p6kRc/Y=
 github.com/envoyproxy/go-control-plane v0.9.1-0.20191026205805-5f8ba28d4473/go.mod h1:YTl/9mNaCwkRvm6d1a2C3ymFceY/DCBVvsKhRF0iEA4=
 github.com/envoyproxy/protoc-gen-validate v0.1.0/go.mod h1:iSmxcyjqTsJpI2R4NaDN7+kN2VEUnK/pcBlmesArF7c=
 github.com/fatih/color v1.7.0 h1:DkWD4oS2D8LGGgTQ6IvwJJXSL5Vp2ffcQg58nFV38Ys=

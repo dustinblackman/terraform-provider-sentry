@@ -32,6 +32,6 @@ require (
 
 replace git.apache.org/thrift.git => github.com/apache/thrift v0.0.0-20180902110319-2566ecd5d999 // indirect
 
-replace github.com/jianyuan/go-sentry => github.com/dustinblackman/go-sentry v1.2.1-0.20200310144955-5d0c21b294a6
+replace github.com/jianyuan/go-sentry => github.com/dustinblackman/go-sentry v1.2.1-0.20200318154555-f5d68b8e3381
 
 go 1.13
